@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Paybeta provides a hassle-free payment experience for all your essential bills and services.
 <!--
 
 **Here are some ideas to get you started:**
